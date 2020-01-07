@@ -1,5 +1,5 @@
 ## CryptoPool
-This is a JS based web application for creating transaction pools in a blockchain. 
+This is a JS based web application for creating transaction pools in a blockchain and implementing DEX.
 
 ## Instructions
 
