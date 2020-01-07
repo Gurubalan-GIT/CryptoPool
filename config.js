@@ -1,3 +1,10 @@
+/*
+ * Created Date: Tuesday January 7th 2020
+ * Author: Gurubalan Harikrishnan
+ * Email-ID: gurubalan.work@gmail.com
+ * -----
+ * Copyright (c) 2020 Gurubalan Harikrishnan
+ */
 const MINE_RATE = 1000;
 const INITIAL_DIFFICULTY = 3;
 
