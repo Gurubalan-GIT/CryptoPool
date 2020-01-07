@@ -1,3 +1,10 @@
+/*
+ * Created Date: Tuesday January 7th 2020
+ * Author: Gurubalan Harikrishnan
+ * Email-ID: gurubalan.work@gmail.com
+ * -----
+ * Copyright (c) 2020 Gurubalan Harikrishnan
+ */
 const hexToBinary = require('hex-to-binary');
 const { GENESIS_DATA, MINE_RATE } = require('../config');
 const { cryptoHash } = require('../util');
