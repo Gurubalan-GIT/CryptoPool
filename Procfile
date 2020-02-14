@@ -1,0 +1,1 @@
+web: npm run dev-client & npm run start-redis && cross-env ENV='development' nodemon index.js
